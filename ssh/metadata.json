@@ -1,0 +1,15 @@
+{
+  "name": "tonyh-ssh",
+  "version": "0.1.0",
+  "author": "Tony Hogan <tony.hogan4@btinternet.com>",
+  "summary": "This is my first test module to manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/TonyHogan/puppet-ssh",
+  "project_page": "https://github.com/TonyHogan/puppet-ssh",
+  "issues_url": "https://github.com/TonyHogan/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
